@@ -4,28 +4,36 @@
     "workbench.colorCustomizations": {},
     "materialTheme.accent": "Remove accents",
     "prettier.singleQuote": true,
-    "editor.formatOnSave": true,
     "prettier.jsxSingleQuote": true,
     "prettier.useTabs": true,
     "better-comments.highlightPlainText": true,
-    "files.autoSave": "onFocusChange",
     "editor.fontSize": 16,
     "editor.wordWrap": "on",
     "workbench.iconTheme": "material-icon-theme",
     "python.analysis.logLevel": "Information",
     "less.lint.vendorPrefix": "error",
     "python.linting.enabled": false,
-    "editor.fontFamily": "Operator Mono Lig",//"'Fira Code', Melno, Monaco, 'Courier New', monospace",
+    "editor.fontFamily": "Operator Mono Lig",
     "editor.fontLigatures": true,
-    "editor.fontWeight": "normal",
-    "workbench.colorTheme": "Monokai",
-    "terminal.integrated.shell.windows": "C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\powershell.exe",
-    "window.zoomLevel": 0,
+    "editor.fontWeight": "bold",
+    "workbench.colorTheme": "Monokai Pro",
+
     "workbench.editorAssociations": [
         {
             "viewType": "jupyter.notebook.ipynb",
             "filenamePattern": "*.ipynb"
         }
     ],
-    "git.confirmSync": false
+    "git.confirmSync": false,
+    "svgviewer.enableautopreview": true,
+    "svgviewer.showzoominout": true,
+    "python.autoComplete.addBrackets": true,
+    "files.trimTrailingWhitespace": true,
+    "files.autoSave": "onFocusChange",
+    "editor.cursorSurroundingLinesStyle": "all",
+    "editor.cursorSurroundingLines": 10,
+    "editor.formatOnSave": true,
+    "python.analysis.completeFunctionParens": true,
+    "terminal.integrated.tabs.enabled": true,
+    "terminal.integrated.defaultProfile.windows": "Git Bash"
 }
